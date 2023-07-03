@@ -17,7 +17,7 @@ The steps I followed for Migration(VMs) to cloud
 
 7- create bucket and upload image in side s3 bucket
 
-8- Inport The Virtual Machine 
+8- Import The Virtual Machine 
 
 9- Access The Virtual Machine 
 
